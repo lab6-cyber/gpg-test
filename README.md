@@ -1,1 +1,1 @@
-# gpg-test
+# GPG Test Project
